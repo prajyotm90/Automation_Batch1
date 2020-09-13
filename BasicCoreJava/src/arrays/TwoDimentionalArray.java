@@ -11,13 +11,12 @@ public class TwoDimentionalArray {
 		System.out.print("");
 
 		for (int r = 0; r < data.length; r++) {
-			
+
 			for (int c = 0; c < data[r].length; c++) {
-				if(data[r][c]==data[1][0]) {
+				if (data[r][c] == data[1][0]) {
 					System.out.println("------");
 				}
-				System.out.print
-				(data[r][c]+" ");
+				System.out.print(data[r][c] + " ");
 			}
 			System.out.println("");
 		}
