@@ -7,7 +7,8 @@ public class TestAccessModifierAtPackageLevel {
 		AccessModifiers obj=new AccessModifiers();
 		obj.publicFunction();
 		obj.defaultFunction();
-		obj.defaultFunction();
+		obj.protectedFunction();
+		
 		
 
 	}
