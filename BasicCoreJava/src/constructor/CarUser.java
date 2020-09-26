@@ -18,14 +18,14 @@ public class CarUser {
 		// This is calling parameterized constructor
 		Car car4 = new Car("Black", "Passenger 2seater", "Li-ion Battery");
 		car4.features();
-		
-		Car car6=new Car("Grey", "BUS", "LPG");
+
+		Car car6 = new Car("Grey", "BUS", "LPG");
 		car6.features();
 
 		Car car5 = new Car();
 		car5.features();
-		
-		Car car7= new Car("Mango", "Limousine");
+
+		Car car7 = new Car("Mango", "Limousine");
 		car7.features();
 
 	}

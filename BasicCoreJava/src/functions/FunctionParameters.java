@@ -6,10 +6,9 @@ public class FunctionParameters {
 		// TODO Auto-generated method stub
 		sum(10, 20);
 		sum(10, 20, 30);
-		sum("abc",10);
-		sum(10,"pqr");
-		sum(20.34,10);
-		
+		sum("abc", 10);
+		sum(10, "pqr");
+		sum(20.34, 10);
 
 	}
 
