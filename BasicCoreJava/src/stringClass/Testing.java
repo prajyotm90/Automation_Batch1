@@ -45,16 +45,7 @@ public class Testing {
 		}
 		
 		
-		//Function 11 
-		
-		String[] std=new String[1];
-		std[0]="Anand";
-		std[1]="Prajyot";
-		System.out.println(std[0]);
-		System.out.println(std[1]);
-		
-		
-		
+//How many times each character is present 		
 		
 	}
 
