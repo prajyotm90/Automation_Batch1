@@ -10,7 +10,7 @@ public class MapInterface {
 		
 		//Hashmap              //Hashtable
 		//Newly added class   //legacy/Synchronized
-		//allows null key     //Doesnt allow null key
+		//allows null key     //Doesn't allow null key
 		
 		//Roll no  |  Name
 		//  1      | Abhilasha
@@ -18,7 +18,7 @@ public class MapInterface {
 		//  3      | Amruta
 		
 		// I want to keep this in key value pair
-		// String,Array,ArrayList,HashSet cant store this
+		// String,Array,ArrayList,HashSet can't store this
 		//Solution is Map
 		
 		Map<Integer, String> stds= new HashMap<>();
@@ -27,7 +27,7 @@ public class MapInterface {
 		stds.put(3, "Amruta");
 		
 		System.out.println(stds.get(3));
-
+		
 	}
 
 }
