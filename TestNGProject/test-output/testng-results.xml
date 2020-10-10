@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression suite" duration-ms="317" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:47 IST">
+    <groups>
+    </groups>
+    <test name=" Prajyot Test" duration-ms="76" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+      <class name="payment.Testing2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:payment.Testing2@5c5a1b69]" name="beforeClass" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:payment.Testing2@5c5a1b69]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:payment.Testing2@5c5a1b69]" name="test1" duration-ms="4" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:payment.Testing2@5c5a1b69]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:payment.Testing2@5c5a1b69]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:payment.Testing2@5c5a1b69]" name="test2" duration-ms="1" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:payment.Testing2@5c5a1b69]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:payment.Testing2@5c5a1b69]" name="afterClass" is-config="true" duration-ms="4" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- payment.Testing2 -->
+      <class name="payment.Testing">
+        <test-method status="PASS" signature="beforePaymentModule()[pri:0, instance:payment.Testing@43814d18]" name="beforePaymentModule" is-config="true" duration-ms="2" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforePaymentModule -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:payment.Testing@43814d18]" name="beforeClass" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:payment.Testing@43814d18]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:payment.Testing@43814d18]" name="test1" duration-ms="9" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:payment.Testing@43814d18]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:payment.Testing@43814d18]" name="test2" duration-ms="2" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:payment.Testing@43814d18]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:payment.Testing@43814d18]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:payment.Testing@43814d18]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterPaymentModule()[pri:0, instance:payment.Testing@43814d18]" name="afterPaymentModule" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterPaymentModule -->
+      </class> <!-- payment.Testing -->
+    </test> <!--  Prajyot Test -->
+    <test name="Fund transfer module" duration-ms="38" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+      <class name="fundTransfer.Testing">
+        <test-method status="PASS" signature="beforePaymentModule()[pri:0, instance:fundTransfer.Testing@1c3a4799]" name="beforePaymentModule" is-config="true" duration-ms="2" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforePaymentModule -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:fundTransfer.Testing@1c3a4799]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:fundTransfer.Testing@1c3a4799]" name="test1" duration-ms="1" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:fundTransfer.Testing@1c3a4799]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:fundTransfer.Testing@1c3a4799]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:fundTransfer.Testing@1c3a4799]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:fundTransfer.Testing@1c3a4799]" name="test2" duration-ms="8" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:fundTransfer.Testing@1c3a4799]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:fundTransfer.Testing@1c3a4799]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterPaymentModule()[pri:0, instance:fundTransfer.Testing@1c3a4799]" name="afterPaymentModule" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterPaymentModule -->
+      </class> <!-- fundTransfer.Testing -->
+      <class name="fundTransfer.Testing2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:fundTransfer.Testing2@131276c2]" name="beforeClass" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:fundTransfer.Testing2@131276c2]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:fundTransfer.Testing2@131276c2]" name="test1" duration-ms="1" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:fundTransfer.Testing2@131276c2]" name="afterMethod" is-config="true" duration-ms="2" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:fundTransfer.Testing2@131276c2]" name="test2" duration-ms="2" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:fundTransfer.Testing2@131276c2]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:fundTransfer.Testing2@131276c2]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:fundTransfer.Testing2@131276c2]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- fundTransfer.Testing2 -->
+    </test> <!-- Fund transfer module -->
+    <test name="Reports module" duration-ms="85" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+      <class name="reports.Testing">
+        <test-method status="PASS" signature="beforeReportsModule()[pri:0, instance:reports.Testing@2d6eabae]" name="beforeReportsModule" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeReportsModule -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:reports.Testing@2d6eabae]" name="beforeClass" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:reports.Testing@2d6eabae]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:reports.Testing@2d6eabae]" name="test1" duration-ms="2" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:reports.Testing@2d6eabae]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:reports.Testing@2d6eabae]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:reports.Testing@2d6eabae]" name="test2" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:reports.Testing@2d6eabae]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:reports.Testing@2d6eabae]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterReportsModule()[pri:0, instance:reports.Testing@2d6eabae]" name="afterReportsModule" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterReportsModule -->
+      </class> <!-- reports.Testing -->
+      <class name="reports.Testing2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:reports.Testing2@4e7dc304]" name="beforeClass" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:reports.Testing2@4e7dc304]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:reports.Testing2@4e7dc304]" name="test1" duration-ms="4" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:reports.Testing2@4e7dc304]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:reports.Testing2@4e7dc304]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:reports.Testing2@4e7dc304]" name="test2" duration-ms="5" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:reports.Testing2@4e7dc304]" name="afterMethod" is-config="true" duration-ms="7" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:reports.Testing2@4e7dc304]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- reports.Testing2 -->
+    </test> <!-- Reports module -->
+    <test name="EOD validations module" duration-ms="53" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+      <class name="payment.Testing">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:payment.Testing@43814d18]" name="beforeSuite" is-config="true" duration-ms="11" started-at="2020-10-10T13:09:46 IST" finished-at="2020-10-10T13:09:46 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:payment.Testing@43814d18]" name="afterSuite" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- payment.Testing -->
+      <class name="eodValidations.Testing">
+        <test-method status="PASS" signature="beforeEODModule()[pri:0, instance:eodValidations.Testing@5f282abb]" name="beforeEODModule" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEODModule -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:eodValidations.Testing@5f282abb]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:eodValidations.Testing@5f282abb]" name="test1" duration-ms="2" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:eodValidations.Testing@5f282abb]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:eodValidations.Testing@5f282abb]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:eodValidations.Testing@5f282abb]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:eodValidations.Testing@5f282abb]" name="test2" duration-ms="4" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:eodValidations.Testing@5f282abb]" name="afterMethod" is-config="true" duration-ms="2" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:eodValidations.Testing@5f282abb]" name="afterClass" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterEODModule()[pri:0, instance:eodValidations.Testing@5f282abb]" name="afterEODModule" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEODModule -->
+      </class> <!-- eodValidations.Testing -->
+      <class name="eodValidations.Testing2">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:eodValidations.Testing2@167fdd33]" name="beforeClass" is-config="true" duration-ms="17" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:eodValidations.Testing2@167fdd33]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:eodValidations.Testing2@167fdd33]" name="test1" duration-ms="9" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:eodValidations.Testing2@167fdd33]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:eodValidations.Testing2@167fdd33]" name="test2" duration-ms="5" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:eodValidations.Testing2@167fdd33]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:eodValidations.Testing2@167fdd33]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:eodValidations.Testing2@167fdd33]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-10-10T13:09:47 IST" finished-at="2020-10-10T13:09:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- eodValidations.Testing2 -->
+    </test> <!-- EOD validations module -->
+  </suite> <!-- Regression suite -->
+</testng-results>
