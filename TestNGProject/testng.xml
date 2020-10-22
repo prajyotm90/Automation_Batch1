@@ -3,7 +3,11 @@
 <suite name="Regression suite">
 	<test thread-count="5" name=" Prajyot Test">
 		<classes>
-			<class name="payment.Testing" />
+			<class name="payment.Testing">
+			<methods>
+			<include name="test1"></include>
+			</methods>
+		</class>
 			<class name="payment.Testing2" />
 		</classes>
 	</test> <!-- Test -->
