@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="seleniumBasicFeatures.FirstSeleniumClass">
+      <class name="seleniumBasicFeatures.ElementCheckBox">
         <methods>
-          <include name="launchBrowser"/>
+          <include name="test1"/>
         </methods>
-      </class> <!-- seleniumBasicFeatures.FirstSeleniumClass -->
+      </class> <!-- seleniumBasicFeatures.ElementCheckBox -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
