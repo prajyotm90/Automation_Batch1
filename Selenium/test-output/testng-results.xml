@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="20880" started-at="2020-10-31T13:42:52 IST" finished-at="2020-10-31T13:43:13 IST">
+  <suite name="Default suite" duration-ms="25281" started-at="2020-11-07T13:17:27 IST" finished-at="2020-11-07T13:17:52 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="20880" started-at="2020-10-31T13:42:52 IST" finished-at="2020-10-31T13:43:13 IST">
-      <class name="seleniumBasicFeatures.ElementRadioButton">
-        <test-method status="PASS" signature="test1()[pri:0, instance:seleniumBasicFeatures.ElementRadioButton@7d907bac]" name="test1" duration-ms="20802" started-at="2020-10-31T13:42:52 IST" finished-at="2020-10-31T13:43:13 IST">
+    <test name="Default test" duration-ms="25281" started-at="2020-11-07T13:17:27 IST" finished-at="2020-11-07T13:17:52 IST">
+      <class name="seleniumBasicFeatures.Element_DropDown">
+        <test-method status="PASS" signature="test1()[pri:0, instance:seleniumBasicFeatures.Element_DropDown@7d907bac]" name="test1" duration-ms="25180" started-at="2020-11-07T13:17:27 IST" finished-at="2020-11-07T13:17:52 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-      </class> <!-- seleniumBasicFeatures.ElementRadioButton -->
+      </class> <!-- seleniumBasicFeatures.Element_DropDown -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

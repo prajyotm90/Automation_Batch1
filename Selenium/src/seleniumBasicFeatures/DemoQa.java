@@ -56,14 +56,7 @@ public class DemoQa {
 		  WebElement xp=dr.findElement(By.xpath("//img[@class='banner-image']"));
 		  xp.click();
 		 
-		for(int cl:wins) {
-			if(!cl.equals(parent)) {
-				dr.close();
-			}
-		}
-		dr.switchTo().window(parent);
-		dr.close();
-		
+				
 	}
 		
 
